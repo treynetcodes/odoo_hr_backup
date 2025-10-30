@@ -1,5 +1,5 @@
 # Odoo HR Backup
-**Odoo HR Backup** is a Python-based utility developed to extract and back up employee-related data from an Odoo ERP system. The tool focuses on exporting structured HR information into a JSON format, making it easier to archive, transfer, or process externally.
+**Odoo HR Backup** is a Python utility developed to extract and back up employee-related data from an Odoo ERP system. The tool focuses on exporting structured HR information into a JSON format, making it easier to archive, transfer, or process externally.
 
 ## Purpose
 
